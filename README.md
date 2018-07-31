@@ -1,6 +1,5 @@
-# wings_of_armageddon
-Deloitte Machine Learning Guild NLP competition
-
+# Deloitte Machine Learning Guild NLP competition
+![Screenshot](DC Brau On the Wings of Armageddon.jpg)
 
 ### Some examples of previous sentiment analysis:
 http://www.pitt.edu/~naraehan/presentation/Movie+Reviews+sentiment+analysis+with+Scikit-Learn.html
