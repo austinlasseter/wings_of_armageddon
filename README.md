@@ -1,5 +1,7 @@
 # Deloitte Machine Learning Guild NLP competition
-![Screenshot]('beerpic.jpg')
+<div align="center">
+    <img src="/image/beerpic.jpg" width="400px"</img> 
+</div>
 
 ### Some examples of previous sentiment analysis:
 http://www.pitt.edu/~naraehan/presentation/Movie+Reviews+sentiment+analysis+with+Scikit-Learn.html
