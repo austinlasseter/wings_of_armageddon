@@ -1,6 +1,6 @@
 # Deloitte Machine Learning Guild NLP competition
 <div align="center">
-    <img src="https://github.com/austinlasseter/wings_of_armageddon/blob/master/images/beerpic.jpg" width="400px"</img> 
+    <img src="https://github.com/austinlasseter/wings_of_armageddon/blob/master/resources/beerpic.jpg" width="500px"</img> 
 </div>
 
 ## Competition Home Page:
