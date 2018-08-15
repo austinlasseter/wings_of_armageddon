@@ -8,6 +8,7 @@ https://americas.internal.deloitteonline.com/sites/DLabs/Pages/IMDB-Review-Senti
 
 ### Some examples of previous sentiment analysis:
 http://www.pitt.edu/~naraehan/presentation/Movie+Reviews+sentiment+analysis+with+Scikit-Learn.html
+http://ipullrank.com/step-step-twitter-sentiment-analysis-visualizing-united-airlines-pr-crisis/
 https://marcobonzanini.com/2015/01/19/sentiment-analysis-with-python-and-scikit-learn/
 https://www.coursera.org/lecture/python-text-mining/demonstration-case-study-sentiment-analysis-MJ7g3
 
